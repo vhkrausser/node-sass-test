@@ -1,0 +1,14 @@
+{
+  "name": "teste-sass",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "node-sass --include-path ./include index.scss"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "node-sass": "^4.8.2"
+  }
+}
